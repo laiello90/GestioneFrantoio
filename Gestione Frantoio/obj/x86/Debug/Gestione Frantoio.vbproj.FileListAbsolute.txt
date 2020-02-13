@@ -1,0 +1,24 @@
+C:\Users\Luca\Desktop\Gestione Frantoio 30 09 19\Gestione Frantoio\bin\Debug\Clienti.mdb
+C:\Users\Luca\Desktop\Gestione Frantoio 30 09 19\Gestione Frantoio\bin\Debug\Fatture.mdb
+C:\Users\Luca\Desktop\Gestione Frantoio 30 09 19\Gestione Frantoio\bin\Debug\comuni.mdb
+C:\Users\Luca\Desktop\Gestione Frantoio 30 09 19\Gestione Frantoio\bin\Debug\Gestione Frantoio.exe.config
+C:\Users\Luca\Desktop\Gestione Frantoio 30 09 19\Gestione Frantoio\bin\Debug\Gestione Frantoio.exe
+C:\Users\Luca\Desktop\Gestione Frantoio 30 09 19\Gestione Frantoio\bin\Debug\Gestione Frantoio.pdb
+C:\Users\Luca\Desktop\Gestione Frantoio 30 09 19\Gestione Frantoio\bin\Debug\Gestione Frantoio.xml
+C:\Users\Luca\Desktop\Gestione Frantoio 30 09 19\Gestione Frantoio\obj\x86\Debug\Gestione_Frantoio.Acque.resources
+C:\Users\Luca\Desktop\Gestione Frantoio 30 09 19\Gestione Frantoio\obj\x86\Debug\Gestione_Frantoio.Clienti.resources
+C:\Users\Luca\Desktop\Gestione Frantoio 30 09 19\Gestione Frantoio\obj\x86\Debug\Gestione_Frantoio.Ditta.resources
+C:\Users\Luca\Desktop\Gestione Frantoio 30 09 19\Gestione Frantoio\obj\x86\Debug\Gestione_Frantoio.Fattura.resources
+C:\Users\Luca\Desktop\Gestione Frantoio 30 09 19\Gestione Frantoio\obj\x86\Debug\Gestione_Frantoio.ImpostazioniFattura.resources
+C:\Users\Luca\Desktop\Gestione Frantoio 30 09 19\Gestione Frantoio\obj\x86\Debug\Gestione_Frantoio.RegistroCaricoScarico.resources
+C:\Users\Luca\Desktop\Gestione Frantoio 30 09 19\Gestione Frantoio\obj\x86\Debug\Gestione_Frantoio.Impostazioni.resources
+C:\Users\Luca\Desktop\Gestione Frantoio 30 09 19\Gestione Frantoio\obj\x86\Debug\Gestione_Frantoio.Informazioni.resources
+C:\Users\Luca\Desktop\Gestione Frantoio 30 09 19\Gestione Frantoio\obj\x86\Debug\Gestione_Frantoio.Istruzioni.resources
+C:\Users\Luca\Desktop\Gestione Frantoio 30 09 19\Gestione Frantoio\obj\x86\Debug\Gestione_Frantoio.Main.resources
+C:\Users\Luca\Desktop\Gestione Frantoio 30 09 19\Gestione Frantoio\obj\x86\Debug\Gestione_Frantoio.Resources.resources
+C:\Users\Luca\Desktop\Gestione Frantoio 30 09 19\Gestione Frantoio\obj\x86\Debug\Gestione_Frantoio.Registro.resources
+C:\Users\Luca\Desktop\Gestione Frantoio 30 09 19\Gestione Frantoio\obj\x86\Debug\Gestione_Frantoio.Sansa.resources
+C:\Users\Luca\Desktop\Gestione Frantoio 30 09 19\Gestione Frantoio\obj\x86\Debug\Gestione Frantoio.vbproj.GenerateResource.Cache
+C:\Users\Luca\Desktop\Gestione Frantoio 30 09 19\Gestione Frantoio\obj\x86\Debug\Gestione Frantoio.exe
+C:\Users\Luca\Desktop\Gestione Frantoio 30 09 19\Gestione Frantoio\obj\x86\Debug\Gestione Frantoio.xml
+C:\Users\Luca\Desktop\Gestione Frantoio 30 09 19\Gestione Frantoio\obj\x86\Debug\Gestione Frantoio.pdb
